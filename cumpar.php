@@ -63,7 +63,7 @@
 					<li class='active has-sub'><a href='archive.html'><span>Articole</span></a>
 					 
 				   </li>
-				   <li class='last'><a href='contact.html'><span>Contacteaza-ne!</span></a></li>
+				   <li class='last'><a href='opinie.php'><span>Contacteaza-ne!</span></a></li>
 				   <li><a href='login.html'><span>BAZA DE DATE</span></a></li>
 				</ul>
 			</div>
