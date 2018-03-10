@@ -54,7 +54,7 @@
 					<li class="active"><a href='index.html'><span>Acasa</span></a></li>
 					<li><a href='single.html'><span>Despre noi</span></a></li>
 					<li><a href='gallery.html'><span>Galerie </span></a></li>
-					<li class='active has-sub'><a href='archive.html'><span>Articole</span></a>
+					<li class='active'><a href='archive.html'><span>Articole</span></a>
 					
 				   </li>
 				   <li class='last'><a href='opinie.php'><span>Contacteaza-ne!</span></a></li>
